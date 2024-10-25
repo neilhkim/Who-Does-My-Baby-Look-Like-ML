@@ -15,3 +15,18 @@ By leveraging the power of **deep learning** and **facial recognition**, I’ll 
 - **Step 4**: Expand the training dataset to include the pictures of the baby's maternal and paternal grand parents and see if the baby resembles them more than me and my wife. 
 
 Will our baby’s face an equal blend me and my wife's faces or a carbon copy of one parent? Perhaps he will resemble his grandparent more? Let's hear what the algorithm has to say.
+
+
+### Example Output
+Here's an example of what the output might look like:
+
+![Example Output](./screenshots/example.png)
+
+In this example, the model has analyzed the baby's features and provided a score (Close to 1 means he resembles my wife. Close to 0 means he resembled me, the husband).
+
+
+
+
+
+
+
