@@ -24,6 +24,16 @@ Here's an example of what the output might look like:
 
 In this example, the model has analyzed the baby's features and provided a score (Close to 1 means he resembles my wife. Close to 0 means he resembled me, the husband).
 
+### Note on training data
+
+The repository includes codes for acquiring training data using Google Photos API (data_acquisition.ipynb), but it will not run on other environments because it will not have access to API credentials.
+
+The acquired data will look like this:
+
+![Example Data](./screenshots/husband_pictures.png)
+
+
+
 
 
 
