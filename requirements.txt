@@ -7,3 +7,8 @@ IPython
 ipywidgets
 scikit-learn
 ipykernel
+google-auth-oauthlib
+google-auth
+google-api-python-client
+requests
+face_recognition
