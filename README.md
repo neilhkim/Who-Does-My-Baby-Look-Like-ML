@@ -32,6 +32,12 @@ The acquired data will look like this:
 
 ![Example Data](./screenshots/husband_pictures.png)
 
+### Expansion
+
+The project will expand to cover further analyses including PCA.
+
+![Example PCA](./screenshots/pca2.png)
+
 
 
 

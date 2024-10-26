@@ -1,0 +1,9 @@
+torch
+matplotlib
+Pillow
+torchvision
+numpy
+IPython
+ipywidgets
+scikit-learn
+ipykernel
